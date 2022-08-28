@@ -1,0 +1,10 @@
+a {
+background-color: white;
+width: 400px;
+font-size:  20px; ;
+border-radius: 30px;
+color: black;
+}
+body{
+    background-size: cover;
+}

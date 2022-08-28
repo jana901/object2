@@ -1,0 +1,22 @@
+#status{
+font-size:  20px;
+color: white;
+}
+
+button{
+    font-size: 20px;
+    color: black;
+    background-color: white;
+}
+
+.heading{
+    color:white;
+}
+
+canvas{
+    box-shadow: 5,5,5,grey;
+}
+
+body{
+    background-size: cover;
+}
